@@ -1,5 +1,5 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcrenn&count_private=true&show_icons=true&theme=dark&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrcrenn)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jrcrenn&count_private=true&show_icons=true&theme=dark)
 **jrcrenn/jrcrenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

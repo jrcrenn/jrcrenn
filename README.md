@@ -16,7 +16,7 @@ Je suis également ouvert à apprendre de nouvelles technologies et à élargir 
 
 ## 🤝 Contactez-moi
 
-Si vous avez des questions, des commentaires ou des idées de collaboration, n'hésitez pas à me contacter à [votre adresse e-mail] ou sur [votre compte Twitter ou LinkedIn].
+Si vous avez des questions, des commentaires ou des idées de collaboration, n'hésitez pas à me contacter par mail [Gmail](jr.crenn@gmail.com) ou sur [LinkedIn](https://www.linkedin.com/in/jrcrenn/).
 
 ## 🌟 Merci !
 

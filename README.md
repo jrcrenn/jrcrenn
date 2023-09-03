@@ -9,8 +9,9 @@ Je suis basé(e) à Cannes, où je travaille sur des projets passionnants chez I
 Je suis spécialisé(e) dans le développement front-end, avec une expérience solide dans les technologies suivantes :
 
 - ![React logo](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-- ![Flutter logo](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 - ![Vue logo](https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
+- ![Node.js logo](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+
 
 Je suis également ouvert à apprendre de nouvelles technologies et à élargir mes horizons.
 

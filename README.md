@@ -2,7 +2,7 @@
 Je m'appelle Jean-Robert CRENN et je suis un développeur passionné. Je suis ravi de vous accueillir sur mon profil GitHub !
 
 ## 🌎 À propos de moi
-Je suis basé(e) à Cannes, où je travaille sur des projets passionnants chez IWE. J'aime relever des défis techniques, explorer de nouvelles technologies et collaborer avec d'autres développeurs pour créer des solutions innovantes.
+Je suis basé(e) à Lyon, où je travaille sur des projets passionnants chez Vizcab. J'aime relever des défis techniques, explorer de nouvelles technologies et collaborer avec d'autres développeurs pour créer des solutions innovantes.
 
 ## 🚀 Mes compétences
 
